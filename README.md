@@ -6,3 +6,5 @@
 - Prototype
 - Prototype inheritance
 - Class
+- Iterators
+- Generators
