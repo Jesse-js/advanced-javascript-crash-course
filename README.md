@@ -3,3 +3,4 @@
 - Closure
 - Function currying
 - ``this`` keyword
+- Prototype
