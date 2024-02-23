@@ -4,3 +4,4 @@
 - Function currying
 - ``this`` keyword
 - Prototype
+- Prototype inheritance
