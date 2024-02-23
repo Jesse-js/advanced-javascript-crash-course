@@ -5,3 +5,4 @@
 - ``this`` keyword
 - Prototype
 - Prototype inheritance
+- Class
