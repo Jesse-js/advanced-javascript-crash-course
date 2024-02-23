@@ -2,3 +2,4 @@
 - Nested functions
 - Closure
 - Function currying
+- ``this`` keyword
